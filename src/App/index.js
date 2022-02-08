@@ -1,16 +1,14 @@
-import React from "react";
-import { AppUi } from "./AppUi";
-import "./App.css";
-import { TodoProvider } from "../TodoContext";
+import React from 'react';
+import { TodoProvider } from '../TodoContext';
+import { AppUi } from './AppUi';
+
 
 function App() {
- 
-
-  return [
+  return (
     <TodoProvider>
-      <AppUi/>
+      <AppUi />
     </TodoProvider>
-  ];
+  );
 }
 
 export default App;
