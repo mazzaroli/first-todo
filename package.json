@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepages": "https://mazzaroli.github.io/introduccion-a-reactjs"
+  "homepages": "https://mazzaroli.github.io/first-todo"
 }
