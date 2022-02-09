@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1ee7211.chunk.css",
-    "main.js": "/static/js/main.3595afa5.chunk.js",
-    "main.js.map": "/static/js/main.3595afa5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.7842ad93.chunk.js": "/static/js/2.7842ad93.chunk.js",
-    "static/js/2.7842ad93.chunk.js.map": "/static/js/2.7842ad93.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ad6a0c8402eddaff9ccb0d6288d8de74.js": "/precache-manifest.ad6a0c8402eddaff9ccb0d6288d8de74.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f1ee7211.chunk.css.map": "/static/css/main.f1ee7211.chunk.css.map"
+    "main.css": "/introduccion-a-reactjs/static/css/main.f1ee7211.chunk.css",
+    "main.js": "/introduccion-a-reactjs/static/js/main.3595afa5.chunk.js",
+    "main.js.map": "/introduccion-a-reactjs/static/js/main.3595afa5.chunk.js.map",
+    "runtime~main.js": "/introduccion-a-reactjs/static/js/runtime~main.39a90a90.js",
+    "runtime~main.js.map": "/introduccion-a-reactjs/static/js/runtime~main.39a90a90.js.map",
+    "static/js/2.7842ad93.chunk.js": "/introduccion-a-reactjs/static/js/2.7842ad93.chunk.js",
+    "static/js/2.7842ad93.chunk.js.map": "/introduccion-a-reactjs/static/js/2.7842ad93.chunk.js.map",
+    "index.html": "/introduccion-a-reactjs/index.html",
+    "precache-manifest.c1d5b01ffa4cfa4b18547d7c72355078.js": "/introduccion-a-reactjs/precache-manifest.c1d5b01ffa4cfa4b18547d7c72355078.js",
+    "service-worker.js": "/introduccion-a-reactjs/service-worker.js",
+    "static/css/main.f1ee7211.chunk.css.map": "/introduccion-a-reactjs/static/css/main.f1ee7211.chunk.css.map"
   }
 }
